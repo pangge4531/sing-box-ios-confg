@@ -389,7 +389,7 @@
       },
       {
         "rule_set": "geosite-category-ads-all",
-        "outbound": "ð AdBlock"
+        "outbound": "🛑 AdBlock"
       },
       {
         "clash_mode": "direct",
